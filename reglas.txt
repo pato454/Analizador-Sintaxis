@@ -1,0 +1,59 @@
+programa: instrucciones;
+
+instrucciones:
+  instrucción
+  | instrucciones instrucción
+  ;
+
+instruccion: decision;
+
+decision:
+  "if" "(" condicion ")" "{" sentencia "}" ( "else" "{" sentencia "}" )?
+  ;
+
+sentencia:
+  salida
+  | salida sentencia
+  | terminar
+  ;
+
+salida:
+  "printf" "(" cadena ")" ";"
+  ;
+
+terminar:
+  "return" ";"
+  ;
+
+condicion:
+  "0"
+  | "1"
+  ;
+
+cadena:
+  "\"" caracteres "\""
+  ;
+
+caracteres:
+  carácter
+  | caracteres carácter
+  ;
+
+caracter:
+  letra
+  | digito
+  | símbolo
+  ;
+
+letra:
+  "a" ... "z"
+  | "A" ... "Z"
+  ;
+
+digito:
+  "0" ... "9"
+  ;
+
+simbolo:
+  "." | "," | "!" | "?" | ":" | ";" | " "
+  ;
