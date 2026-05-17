@@ -22,7 +22,3 @@ seguir la siguiente serie de pasos:
 
 Para probar otro ejemplo simplemente se repiten dichos pasos.
 
-
-
-información que considere importante para favorecer el testeo y evaluación de su proyecto de
-analizador.
