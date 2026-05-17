@@ -1,10 +1,10 @@
 README
 
-Instalación
+Instalación: 
 El repositorio se puede descargar directamente desde Github o clonarlo en la terminal de comandos
-mediante el comando: git clone https://github.com/mbrachetta/50268.git
+mediante el comando: git clone https://github.com/pato454/Analizador-Sintaxis.git
 
-Instrucciones de Uso
+Instrucciones de Uso:
 En el repositorio se enuentran los 4 ejemplos de inputs, el archivo Reglas.txt que contiene la gramatica asignada
 y la carpeta "Analizador" que contiene todo el código del proyecto. Para probar cualquiera de los cuatro ejemplos, se debe 
 seguir la siguiente serie de pasos:
