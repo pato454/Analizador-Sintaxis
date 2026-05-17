@@ -1,5 +1,9 @@
 README
 
+Alumno: Patricio Pérez
+Legajo: 53447
+Tema: 39568_9
+
 Instalación: 
 El repositorio se puede descargar directamente desde Github o clonarlo en la terminal de comandos
 mediante el comando: git clone https://github.com/pato454/Analizador-Sintaxis.git
