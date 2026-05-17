@@ -1,0 +1,9 @@
+if (0) {
+    printf("Hola.")
+    else {
+        printf("Chau.")
+    }
+    else {
+        printf("Va a tirar error.")
+    }
+}

@@ -1,9 +1,7 @@
 if (0) {
-    printf("Hola.")
-    else {
-        printf("Chau.")
-    }
-    else {
-        printf("Hola.")
-    }
+    printf("No se muestra");
+    return;
+} else {
+    printf("Se muestra");
+    return;
 }

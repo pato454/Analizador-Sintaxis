@@ -1,0 +1,3 @@
+if return; (0) {
+    printf("Meter el return arriba es un error sintactico".)
+}
