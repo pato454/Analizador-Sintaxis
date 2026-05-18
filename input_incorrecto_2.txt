@@ -1,9 +1,5 @@
-if (0) {
-    printf("Hola.")
-    else {
-        printf("Chau.")
-    }
-    else {
-        printf("Va a tirar error.")
-    }
+fi (0) {
+    printf("El de arriba es un claro error lexico.")
+} else {
+    print("No se muestra.")
 }
