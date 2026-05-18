@@ -21,8 +21,9 @@ seguir la siguiente serie de pasos:
     <img width="499" height="290" alt="image" src="https://github.com/user-attachments/assets/e56fe25e-13c3-48df-ac5d-3d109686f6ab" />
 
     
-  - Abrir la terminal de VSCODE, moverse a la carpeta "Analizador" y ejecutar el comando "npm start".
-    <img width="348" height="29" alt="image" src="https://github.com/user-attachments/assets/6628341b-d7c5-4777-9833-4577a639e153" />
+  - Abrir la terminal de VSCODE, moverse a la carpeta "Analizador" y ejecutar el comando "node index.js".
+  <img width="341" height="22" alt="image" src="https://github.com/user-attachments/assets/7d38f51f-f500-481f-ba7e-d438ba3da17a" />
+
 
 Para probar otro ejemplo simplemente se repiten dichos pasos.
 
