@@ -1,4 +1,4 @@
-if (0) {
+if return; (0) {
     printf("No se muestra");
     return;
 } else {
