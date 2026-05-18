@@ -1,3 +1,7 @@
-if return; (0) {
-    printf("Meter el return arriba es un error sintactico")
+if (0) {
+    printf("No se muestra");
+    return;
+} else {
+    printf("Se muestra");
+    return;
 }
